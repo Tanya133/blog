@@ -1,4 +1,4 @@
-baseURL = "https://bibliotekar.pp.ua"
+baseURL = "https://biblioteka.website"
 languageCode = "en-us"
 title = "My New Hugo Site from Render"
 theme = "ananke"
