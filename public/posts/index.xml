@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site from Render</title>
+    <link>https://biblioteka.website/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site from Render</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Dec 2019 18:01:12 +0200</lastBuildDate>
+    
+	<atom:link href="https://biblioteka.website/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Testpdf</title>
+      <link>https://biblioteka.website/posts/testpdf/</link>
+      <pubDate>Sun, 01 Dec 2019 18:01:12 +0200</pubDate>
+      
+      <guid>https://biblioteka.website/posts/testpdf/</guid>
+      <description>Кращі друзі й помічники, розумні книги-словники Кращі друзі й помічники, розумні книги – СЛОВНИКИ (для учнів початкової і середньої школи)  Мета: ознайомити учнів зі словниками як одним із видів довідкової літератури; удосконалити навички пошукової роботи, зорової пам’яті, зв’язного мовлення; виховувати любов і повагу до рідної мови та до читання довідкової літератури. Навчити учнів користуватися довідниками, енциклопедіями та словниками. Закріпити знання про структуру книги. Обладнання: виставка словників; таблиці з цитатами про словник та про види словників, комп’ютер, інтерактивна дошка, презентація.</description>
+    </item>
+    
+    <item>
+      <title>My First Post3</title>
+      <link>https://biblioteka.website/posts/my-first-post3/</link>
+      <pubDate>Sun, 01 Dec 2019 17:06:32 +0200</pubDate>
+      
+      <guid>https://biblioteka.website/posts/my-first-post3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My First Post2</title>
+      <link>https://biblioteka.website/posts/my-first-post2/</link>
+      <pubDate>Sun, 01 Dec 2019 09:47:09 +0200</pubDate>
+      
+      <guid>https://biblioteka.website/posts/my-first-post2/</guid>
+      <description>```Hello to Deploy on Netlify</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://biblioteka.website/posts/my-first-post/</link>
+      <pubDate>Sun, 01 Dec 2019 09:26:22 +0200</pubDate>
+      
+      <guid>https://biblioteka.website/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

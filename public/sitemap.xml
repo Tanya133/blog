@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://biblioteka.website/</loc>
+    <lastmod>2019-12-01T18:01:12+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biblioteka.website/posts/</loc>
+    <lastmod>2019-12-01T18:01:12+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biblioteka.website/posts/testpdf/</loc>
+    <lastmod>2019-12-01T18:01:12+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biblioteka.website/posts/my-first-post3/</loc>
+    <lastmod>2019-12-01T17:06:32+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biblioteka.website/posts/my-first-post2/</loc>
+    <lastmod>2019-12-01T09:47:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biblioteka.website/posts/my-first-post/</loc>
+    <lastmod>2019-12-01T09:26:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biblioteka.website/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://biblioteka.website/tags/</loc>
+  </url>
+  
+</urlset>
