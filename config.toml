@@ -1,0 +1,4 @@
+baseURL = "https://bibliotekar.pp.ua"
+languageCode = "en-us"
+title = "My New Hugo Site from Render"
+theme = "ananke"
